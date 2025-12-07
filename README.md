@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAtomer)](https://github.com/TheAtomer/github-readme-stats)-->
-<center>[![Kasumi](./ksm.jpg)]</center>
+<div style="text-align: center;">
+  <img src="ksm.jpg"  style="max-width: 100%;">
+</div>
 <!--
 **TheAtomer/TheAtomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
